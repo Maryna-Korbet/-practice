@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-selector-dogs-breeds/static/css/main.c3d5249d.css",
+    "main.js": "/react-selector-dogs-breeds/static/js/main.cc8d8591.js",
+    "index.html": "/react-selector-dogs-breeds/index.html",
+    "main.c3d5249d.css.map": "/react-selector-dogs-breeds/static/css/main.c3d5249d.css.map",
+    "main.cc8d8591.js.map": "/react-selector-dogs-breeds/static/js/main.cc8d8591.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.cc8d8591.js"
+  ]
+}
